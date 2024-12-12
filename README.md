@@ -1,3 +1,3 @@
 # **CSD: 2021-25 Batch-B4**
 ---
-# **MULTI-DISEASE PREDICTION SYSTEM USING MACHINE LEARNING AND DJANGO**
+# **Multi-Disease Prediction System Using ML and Django**
